@@ -1,5 +1,7 @@
 # Demo D8 component-based theme
-This demo theme was built using yeoman, gulp, node.js, npm, kss and other front-end tools.  This theme was created by [Mediacurrent](https://www.mediacurrent.com).
+This demo theme was built using [yeoman](http://yeoman.io/), [gulp](http://gulpjs.com/), [node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/), [kss](https://github.com/kss-node/kss-node), and other front-end tools.
+
+This theme was created by [Mediacurrent](https://www.mediacurrent.com).
 
 ## Getting Started
 If you haven't yet, install nvm:
