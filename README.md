@@ -27,6 +27,11 @@ _This will run whatever the default task is._
 
 _This will perform a one-time Sass compilation._
 
+#### Compiles Styleguide
+`npm run styleguide`
+
+_This will perform a one-time styleguide compilation._
+
 #### Runs the watch command
 `npm run watch`
 
